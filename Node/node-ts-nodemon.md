@@ -46,4 +46,3 @@ npm install -D rimraf
    "build": "rimraf ./dist && tsc",
    "start": "npm run build && node dist/app.js"
 ```
-
